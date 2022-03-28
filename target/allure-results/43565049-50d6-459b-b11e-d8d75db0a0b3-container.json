@@ -1,0 +1,1 @@
+{"uuid":"43565049-50d6-459b-b11e-d8d75db0a0b3","name":"Check user can not register without one of required fields","children":["d0f3e634-afb7-4a47-9b15-b42438d09faa","67690557-4223-4dc9-a908-73ddcd37ee44","94500003-fd53-4b1b-bb5e-f7dbc38284e2"],"befores":[],"afters":[],"start":1648490437918,"stop":1648490439434}
